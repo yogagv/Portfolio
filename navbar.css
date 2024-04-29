@@ -1,0 +1,34 @@
+body{
+    background-color: #F8D7DA;
+    font-family: "Poppins", sans-serif;
+}
+
+.banner {
+    background-image: url(./images/shopping-cart-with-wooden-elements.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity:0.8;
+    padding: 150px 0px;
+    
+
+}
+
+
+h1{
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.nav-link{
+    color: gray;
+}
+.nav-link:hover{
+    color: black;
+}
+
+.products{
+    background-image: url(./images/shopping-cart-with-wooden-elements\ -\ Copy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 120px 0px;
+}
